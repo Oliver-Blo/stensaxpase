@@ -85,4 +85,9 @@ li {
   color: rgb(168, 255, 7);
   font-size: 5em;
 }
+@media only screen and (max-width:1000px){
+  .Score{
+    font-size:0.7em;
+  }
+}
 </style>

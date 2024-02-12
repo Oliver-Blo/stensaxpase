@@ -104,4 +104,12 @@ li {
 .computerChoice {
   border: 0.2em dashed black;
 }
+@media only screen and (max-width:1000px) {
+  ul {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  font-size:0.7em;
+}
+}
 </style>

@@ -22,4 +22,9 @@ const props = defineProps(['userAlternative', 'computerAlternative', 'winnerInfo
   background-color: aqua;
   text-align: center;
 }
+@media only screen and (max-width:1000px) {
+  #resultat p {
+    font-size:0.8em;
+  }
+}
 </style>
