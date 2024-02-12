@@ -1,2 +1,1 @@
-# stensaxpase
- 
+La till RESET knapp
